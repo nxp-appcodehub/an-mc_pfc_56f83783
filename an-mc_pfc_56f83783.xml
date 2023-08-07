@@ -1,0 +1,29 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="an-mc_pfc_56f83783" type="app_note" format="projectfile" name="mc_pfc_56f83783">
+    <overview>
+        <![CDATA[One PMSM Sensorless FOC and 2-ph Interleaved Boost PFC<br />Control based on MC56F83783 
+<br />]]>
+    </overview>
+    <toolchains>
+        <toolchain name="codewarrior"></toolchain>
+    </toolchains>
+    <families>
+        <family name="dsc"></family>
+    </families>
+    <nxp_compatible_hw>
+        <custom_hw></custom_hw>
+    </nxp_compatible_hw>
+    <nxp_ebh_hw>
+        <ebh id="nxp_hvp_mc3ph"></ebh>
+    </nxp_ebh_hw>
+    <peripherals>
+        <peripheral name="adc"></peripheral>
+        <peripheral name="pwm"></peripheral>
+        <peripheral name="timer"></peripheral>
+        <peripheral name="uart"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="industrial"></category>
+        <category name="motor_control"></category>
+        <category name="power_conversion"></category>
+    </categories>
+</data:item>
