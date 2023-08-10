@@ -107,7 +107,7 @@ Oscilloscope waveforms show the performance of PFC. Probe channels are assigned 
 >
 > When 800W load is added abruptly, PFC goes from burst mode to normal mode immediately. DC electric load is used for this test. Sampled DC bus voltage can be seen in FreeMASTER scope as well.
 > 
-> ![PFC 0 to 800W picture](images/0_800w.png)
+> ![PFC 0 to 800W picture](images/0_800W.png)
 > ![PFC 0 to 800W freemaster picture](images/0_800w_freemaster.png)
 >
 > ***220VAC, 50Hz 800W to 0W load transition***
